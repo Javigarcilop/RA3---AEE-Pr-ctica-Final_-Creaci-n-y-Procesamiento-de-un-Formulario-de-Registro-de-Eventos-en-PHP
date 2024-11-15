@@ -1,0 +1,25 @@
+html{
+   margin-left: 5%;
+   margin-bottom: 5%;
+
+}
+
+form{
+  color: black !important;
+  margin: 50px;
+}
+
+h3{
+    color: rgb(104, 152, 207);
+}
+
+input{
+    max-width: 200px;
+}
+
+textarea{
+  max-width: 500px;
+}
+
+
+
