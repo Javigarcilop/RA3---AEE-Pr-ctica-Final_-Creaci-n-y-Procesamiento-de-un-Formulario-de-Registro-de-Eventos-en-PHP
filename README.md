@@ -30,4 +30,4 @@ Este proyecto permite a los usuarios registrarse para un evento mediante un form
 Clona el repositorio:
 
 ```bash
-git clone https://github.com/usuario/proyecto.git
+git clone https://github.com/Javigarcilop/formulario-registro-eventos-php.git
